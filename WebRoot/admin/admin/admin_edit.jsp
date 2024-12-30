@@ -46,7 +46,7 @@
 					<form action="<%=path %>/admin/update.action" name="formAdd" method="post">
 				  <table class="table table-hover  table-bordered table-striped">
 						<tr>
-							<th colspan="2">&nbsp;修改管理员&nbsp;</td>
+							<td colspan="2">&nbsp;修改管理员&nbsp;</td>
 						</tr>
 						    <tr>
 							    <th width="50%">

@@ -82,7 +82,7 @@
 					<form action="<%=path %>/dqorder/update.action" name="formAdd" method="post">
 				  <table class="table table-hover  table-bordered table-striped">
 						<tr>
-							<th colspan="2">&nbsp;修改代取件&nbsp;</td>
+							<td colspan="2">&nbsp;修改代取件&nbsp;</td>
 						</tr>
 						    <tr>
 							    <th width="50%">

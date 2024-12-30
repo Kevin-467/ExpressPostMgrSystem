@@ -46,7 +46,7 @@
 			<form action="<%=path %>/admin/save.action" name="formAdd" method="post">
 				  <table class="table table-hover  table-bordered table-striped">
 						<tr>
-							<th colspan="4">&nbsp;添加管理员&nbsp;</td>
+							<th colspan="4">&nbsp;添加管理员&nbsp;</th>
 						</tr>
 						    <tr>
 							    <th width="50%">

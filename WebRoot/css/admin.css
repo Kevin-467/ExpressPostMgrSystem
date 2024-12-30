@@ -53,7 +53,7 @@ ul, li {
 }
 
 .field-icon-right .icon {
-    bottom: 0px;
+    bottom: 0;
     top: auto
 }
 
@@ -95,7 +95,7 @@ ul, li {
     height: 100%;
     position: fixed;
     top: 70px;
-    left: 0px;
+    left: 0;
 }
 
 .leftnav-title {
@@ -171,12 +171,9 @@ ul, li {
     bottom: 0;
     top: 110px;
     left: 180px;
-    padding: 15px;
-    padding-right: 0px;
-    padding-bottom: 0px;
     overflow: auto;
     border-top: 1px solid #b5cfd9;
-    padding-right: 15px;
+    padding: 15px 15px 0;
 }
 
 .content {
@@ -250,7 +247,7 @@ ul, li {
 
 .form-group .field .file {
     background: #FFF;
-    border: 0px;
+    border: 0;
 }
 
 .form-group .field input[type=radio] {

@@ -27,7 +27,7 @@
             <form action="<%=path%>/login.action" name="ThisForm" method="post">
             <div class="panel loginbox">
                 <div class="text-center margin-big padding-big-top"><h1>快递驿站管理系统</h1></div>
-                <div class="panel-body" style="padding:30px; padding-bottom:10px; padding-top:10px;">
+                <div class="panel-body" style="padding: 10px 30px;">
                     <div class="form-group">
                         <div class="field field-icon-right">
                             <input type="text" class="input input-big" name="userName" placeholder="登录账号" data-validate="required:请填写账号" />
