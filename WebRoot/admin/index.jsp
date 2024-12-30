@@ -115,9 +115,6 @@
             <li><a href="<%=path %>/order/list.action?yuangongid=${sessionScope.yuangong.id}" target="right"><span
                     class="icon-caret-right"></span>快递订单信息管理</a>
             </li>
-            <li><a href="<%=path %>/order/add.action" target="right"><span
-                    class="icon-caret-right"></span>快递订单信息添加</a>
-            </li>
         </ul>
         <h2>
             <span class="icon-pencil-square-o"></span>公告信息管理
